@@ -1,0 +1,10 @@
+# Personal Registration System
+# Standard Python Libraries Used
+
+tkinter
+sqlite3
+os
+re
+
+# Minimum Python version required
+python>=3.9
